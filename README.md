@@ -9,14 +9,6 @@ This project provides an interactive dashboard for analyzing restaurant reviews 
 - **Restaurant Comparison**: Compare restaurants across multiple aspects
 - **Customizable Filters**: Filter by restaurant, aspect, sentiment, and confidence
 
-## File Structure
-- `src/dashboard.py`: Main Streamlit dashboard
-- `src/aspect_extraction.py`: Aspect extraction logic
-- `src/aspect_sentiment_analysis.py`: Sentiment analysis logic
-- `src/restaurant_analyzer_setup.py`: Setup and configuration
-- `src/test_extraction.py`: Test scripts
-- `src/yelp_academic_dataset_business.json` & `src/yelp_academic_dataset_review.json`: (Not tracked in GitHub) Large dataset files
-
 ## Setup
 1. **Clone the repository:**
    ```bash
