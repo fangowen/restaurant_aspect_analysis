@@ -28,10 +28,6 @@ This project provides an interactive dashboard for analyzing restaurant reviews 
    ```bash
    pip install streamlit pandas numpy matplotlib seaborn plotly wordcloud scikit-learn textblob spacy transformers
    ```
-4. **(Optional) Download spaCy model:**
-   ```bash
-   python -m spacy download en_core_web_sm
-   ```
 
 ## Running the Dashboard
 ```bash
